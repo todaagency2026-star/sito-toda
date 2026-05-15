@@ -1,8 +1,6 @@
 {
   "buildCommand": "echo 'Static site - no build required'",
   "public": true,
-  "env": {},
-  "regions": ["auto"],
   "functions": {
     "api/**/*.js": {
       "memory": 1024,
