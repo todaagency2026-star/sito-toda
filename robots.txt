@@ -1,0 +1,8 @@
+# TODA agency - robots.txt for search engines
+
+# Allow all bots
+User-agent: *
+Allow: /
+
+# Specify sitemap
+Sitemap: https://toda-agency.it/sitemap.xml
